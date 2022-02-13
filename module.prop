@@ -1,7 +1,7 @@
 id=munian
 name=小优化
 version=v1
-versionCode=1
+versionCode=1.2
 author=暮年
 description=进行一些miui小优化，更加流畅。
 updateJson=https://raw.githubusercontent.com/1816796424/youhua1/main/munian.json
