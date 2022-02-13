@@ -1,6 +1,6 @@
 {
     "version":"1",
     "versionCode":1,
-    "zipUrl":"https://objects.githubusercontent.com/github-production-release-asset-2e65be/430770392/46e768ac-303b-4c79-9237-2c3e0b3137ad?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220213T081622Z&X-Amz-Expires=300&X-Amz-Signature=1594b849fb4f79f6ac51ca84de68a98739c0f3f66a3fdaab4866271d3bd22daa&X-Amz-SignedHeaders=host&actor_id=56263905&key_id=0&repo_id=430770392&response-content-disposition=attachment%3B%20filename%3Dyouhau.zip&response-content-type=application%2Foctet-stream",
-    "changelog":"https://gitee.com/munian775/textbug/blob/master/log.md"
+    "zipUrl":"https://gitee.com/munian775/textbug/raw/master/%E6%9A%AE%E5%B9%B4%E7%9A%84%E5%B0%8F%E4%BC%98%E5%8C%96.zip",
+    "changelog":"https://gitee.com/munian775/textbug/raw/master/log.md"
 }
